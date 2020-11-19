@@ -1,0 +1,2 @@
+# LinMOS
+GTK-theme
